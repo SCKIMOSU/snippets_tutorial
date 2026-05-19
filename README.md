@@ -1,4 +1,4 @@
-# tutorialclass4
+# snippets_tutorial
 
 > Django REST Framework 튜토리얼 — Class 4: 인증과 권한
 >
@@ -37,7 +37,7 @@ DRF의 핵심 패턴 — `GenericAPIView + Mixin`, `perform_create`, `ReadOnlyFi
 
 ```bash
 # 1. 클론
-git clone https://github.com/SCKIMOSU/tutorialclass4.git
+git clone https://github.com/SCKIMOSU/snippets_tutorial.git
 cd tutorialclass4
 
 # 2. 가상환경
